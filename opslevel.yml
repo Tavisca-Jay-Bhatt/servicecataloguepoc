@@ -15,6 +15,7 @@ service:
     value: QA
   - key: imported
     value: imported-manually
+  - BusinessUnit: CX.TRAVEL
   repositories:
   tools:
   - name: Confluence
